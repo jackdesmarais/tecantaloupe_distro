@@ -1,0 +1,10 @@
+value_type,name,name,name,name,name,name,name,name,name,name,name,name
+column,1,2,3,4,5,6,7,8,9,10,11,12
+A,2%GLU+0uMcopper+ADE,2%GLU+0uMcopper+ADE,2%GLU+0uMcopper+ADE,2%GLU+0uMcopper+ADE,2%GLU+0uMcopper+TRP,2%GLU+0uMcopper+TRP,2%GLU+0uMcopper+TRP,2%GLU+0uMcopper+TRP,2%GLU+0uMcopper+dCas9_ade,2%GLU+0uMcopper+dCas9_ade,2%GLU+0uMcopper+dCas9_ade,2%GLU+0uMcopper+dCas9_ade
+B,2%GAL+0uMcopper+ADE,2%GAL+0uMcopper+ADE,2%GAL+0uMcopper+ADE,2%GAL+0uMcopper+ADE,2%GAL+0uMcopper+TRP,2%GAL+0uMcopper+TRP,2%GAL+0uMcopper+TRP,2%GAL+0uMcopper+TRP,2%GAL+0uMcopper+dCas9_ade,2%GAL+0uMcopper+dCas9_ade,2%GAL+0uMcopper+dCas9_ade,2%GAL+0uMcopper+dCas9_ade
+C,4%GAL+0uMcopper+ADE,4%GAL+0uMcopper+ADE,4%GAL+0uMcopper+ADE,4%GAL+0uMcopper+ADE,4%GAL+0uMcopper+TRP,4%GAL+0uMcopper+TRP,4%GAL+0uMcopper+TRP,4%GAL+0uMcopper+TRP,4%GAL+0uMcopper+dCas9_ade,4%GAL+0uMcopper+dCas9_ade,4%GAL+0uMcopper+dCas9_ade,4%GAL+0uMcopper+dCas9_ade
+D,2%GLU+100uMcopper+ADE,2%GLU+100uMcopper+ADE,2%GLU+100uMcopper+ADE,2%GLU+100uMcopper+ADE,2%GLU+100uMcopper+TRP,2%GLU+100uMcopper+TRP,2%GLU+100uMcopper+TRP,2%GLU+100uMcopper+TRP,2%GLU+100uMcopper+dCas9_ade,2%GLU+100uMcopper+dCas9_ade,2%GLU+100uMcopper+dCas9_ade,2%GLU+100uMcopper+dCas9_ade
+E,2%GAL+100uMcopper+ADE,2%GAL+100uMcopper+ADE,2%GAL+100uMcopper+ADE,2%GAL+100uMcopper+ADE,2%GAL+100uMcopper+TRP,2%GAL+100uMcopper+TRP,2%GAL+100uMcopper+TRP,2%GAL+100uMcopper+TRP,2%GAL+100uMcopper+dCas9_ade,2%GAL+100uMcopper+dCas9_ade,2%GAL+100uMcopper+dCas9_ade,2%GAL+100uMcopper+dCas9_ade
+F,4%GAL+100uMcopper+ADE,4%GAL+100uMcopper+ADE,4%GAL+100uMcopper+ADE,4%GAL+100uMcopper+ADE,4%GAL+100uMcopper+TRP,4%GAL+100uMcopper+TRP,4%GAL+100uMcopper+TRP,4%GAL+100uMcopper+TRP,4%GAL+100uMcopper+dCas9_ade,4%GAL+100uMcopper+dCas9_ade,4%GAL+100uMcopper+dCas9_ade,4%GAL+100uMcopper+dCas9_ade
+G,,,,,,,,,,,,
+H,,,,,,,,,,,,

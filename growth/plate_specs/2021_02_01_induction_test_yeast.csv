@@ -1,0 +1,10 @@
+value_type,name,name,name,name,name,name,name,name,name,name,name,name
+column,1,2,3,4,5,6,7,8,9,10,11,12
+A,Ade+Glucose+0,Ade+Glucose+0,Ade+Glucose+0,trp+Glucose+0,trp+Glucose+0,trp+Glucose+0,Ade+Galactose+0,Ade+Galactose+0,Ade+Galactose+0,trp+Galactose+0,trp+Galactose+0,trp+Galactose+0
+B,Ade+Glucose+1,Ade+Glucose+1,Ade+Glucose+1,trp+Glucose+1,trp+Glucose+1,trp+Glucose+1,Ade+Galactose+1,Ade+Galactose+1,Ade+Galactose+1,trp+Galactose+1,trp+Galactose+1,trp+Galactose+1
+C,Ade+Glucose+5,Ade+Glucose+5,Ade+Glucose+5,trp+Glucose+5,trp+Glucose+5,trp+Glucose+5,Ade+Galactose+5,Ade+Galactose+5,Ade+Galactose+5,trp+Galactose+5,trp+Galactose+5,trp+Galactose+5
+D,Ade+Glucose+10,Ade+Glucose+10,Ade+Glucose+10,trp+Glucose+10,trp+Glucose+10,trp+Glucose+10,Ade+Galactose+10,Ade+Galactose+10,Ade+Galactose+10,trp+Galactose+10,trp+Galactose+10,trp+Galactose+10
+E,Ade+Glucose+50,Ade+Glucose+50,Ade+Glucose+50,trp+Glucose+50,trp+Glucose+50,trp+Glucose+50,Ade+Galactose+50,Ade+Galactose+50,Ade+Galactose+50,trp+Galactose+50,trp+Galactose+50,trp+Galactose+50
+F,Ade+Glucose+100,Ade+Glucose+100,Ade+Glucose+100,trp+Glucose+100,trp+Glucose+100,trp+Glucose+100,Ade+Galactose+100,Ade+Galactose+100,Ade+Galactose+100,trp+Galactose+100,trp+Galactose+100,trp+Galactose+100
+G,Ade+Glucose+500,Ade+Glucose+500,Ade+Glucose+500,trp+Glucose+500,trp+Glucose+500,trp+Glucose+500,Ade+Galactose+500,Ade+Galactose+500,Ade+Galactose+500,trp+Galactose+500,trp+Galactose+500,trp+Galactose+500
+H,Ade+Glucose+1000,Ade+Glucose+1000,Ade+Glucose+1000,trp+Glucose+1000,trp+Glucose+1000,trp+Glucose+1000,Ade+Galactose+1000,Ade+Galactose+1000,Ade+Galactose+1000,trp+Galactose+1000,trp+Galactose+1000,trp+Galactose+1000
